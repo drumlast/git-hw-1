@@ -1,0 +1,4 @@
+# Igmore files .pyc
+*.pyc
+# Ignore cache/
+cache/
