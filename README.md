@@ -3,3 +3,6 @@
 
 # .gitignore:
 [.gitignore](https://github.com/drumlast/git-hw-1/commit/63d528077c4a5373dd543b8b5842adc0318b5076)
+
+# Merge:
+[merge](https://github.com/drumlast/git-hw-1/network)
